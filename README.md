@@ -22,7 +22,8 @@
 
 
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently working **Flutter**
+- 🌱 I’m currently learning **nodejs**
 
 - 👯 I’m looking to collaborate with **other developers**
 
