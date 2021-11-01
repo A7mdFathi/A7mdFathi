@@ -1,16 +1,27 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Ahmed Fathi</h1>
+<h3 align="center">Flutter Developer 😜</h3>
 
-<!--
-**A7mdFathi/A7mdFathi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![LinkedIn](https://www.linkedin.com/in/a7mdfathi/)
+![GitHub followers](https://img.shields.io/github/followers/abuanwar072?logo=GitHub&style=for-the-badge)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🌱 I’m currently learning **Flutter, Nodejs**
+
+- 👯 I’m looking to collaborate with **other developers**
+
+
+### Connect with me:
+
+<a href="https://www.linkedin.com/in/a7mdfathi/" target="blank"><img src="https://play.google.com/store/apps/details?id=com.linkedin.android&hl=ar&gl=US" alt="a7mdfathi" height="22" width="22" /></a>
+
+
+
+
+<br />
+
+### Languages and Tools:
+
+<p align="left"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="22" height="22"/> <img
+
+
