@@ -1,5 +1,21 @@
-<h1 align="center">Hi 👋, I'm Ahmed Fathi</h1>
-<h3 align="center">Flutter Developer 😜</h3>
+### <div align="center">Hi there I am Ahmed Fathi - Flutter Developer  👋</div>
+
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=a7mdfathi&&style=flat-square" align="center" />
+</div>  
+<br/>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=a7mdfathi&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+  <br/>
+<img
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=a7mdfathi&badges=4&show-avatar=true&style=--header-bg-color:%230a1931;--border-radius:12px;--badge-bg-color:%230a81ab"
+/>
+<br/> 
+<img
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=a7mdfathi&labels=true&legend=true&tooltip=true"
+/>
 
 ![LinkedIn](https://www.linkedin.com/in/a7mdfathi/)
 ![GitHub followers](https://img.shields.io/github/followers/a7mdfathi?logo=GitHub&style=for-the-badge)
@@ -21,7 +37,7 @@
 <br />
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=abdelrahmanelmarakby&show_icons=true&theme=radical&show_icons=true&count_private=true&hide_border=true" style="width: 100%" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=a7mdfathi&show_icons=true&theme=radical&show_icons=true&count_private=true&hide_border=true" style="width: 100%" /></div>  
 <br/>  
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
