@@ -8,14 +8,14 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=a7mdfathi&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-  <br/>
+<!--   <br/>
 <img
   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=a7mdfathi&badges=4&show-avatar=true&style=--header-bg-color:%230a1931;--border-radius:12px;--badge-bg-color:%230a81ab"
 />
-<br/> 
-<!-- <img
+<br/>  -->
+<img
   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=a7mdfathi&labels=true&legend=true&tooltip=true"
-/> -->
+/>
 
 ![LinkedIn](https://www.linkedin.com/in/a7mdfathi/)
 ![GitHub followers](https://img.shields.io/github/followers/a7mdfathi?logo=GitHub&style=for-the-badge)
