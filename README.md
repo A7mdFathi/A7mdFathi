@@ -13,12 +13,20 @@
 
 ### Connect with me:
 
-<a href="https://www.linkedin.com/in/a7mdfathi/" target="blank"><img src="https://play.google.com/store/apps/details?id=com.linkedin.android&hl=ar&gl=US" alt="a7mdfathi" height="22" width="22" /></a>
+<a href="https://www.linkedin.com/in/a7mdfathi/" target="blank"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fflyclipart.com%2Flinkedin-logo-png-images-free-download-linkedin-logo-png-930894&psig=AOvVaw15eS612_UpZXxh0W5NHP7O&ust=1635893493387000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLD8qKqg-PMCFQAAAAAdAAAAABAD" alt="a7mdfathi" height="22" width="22" /></a>
 
 
 
 
 <br />
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=abdelrahmanelmarakby&show_icons=true&theme=radical&show_icons=true&count_private=true&hide_border=true" style="width: 100%" /></div>  
+<br/>  
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
+
+
 
 ### Languages and Tools:
 
@@ -52,7 +60,7 @@
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="https://play-lh.googleusercontent.com/MK12c7vLGVgCgTUvuhlb9b69BwO0-UqsLkvzrHef46xT1ilYoMknDa-Nq0HZwFDX8ts" alt="java" height="50" />  
+<img style="https://e7.pngegg.com/pngimages/556/484/png-clipart-java-development-kit-oracle-corporation-programming-language-string-agile-text-logo.png" alt="java" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 </div>
