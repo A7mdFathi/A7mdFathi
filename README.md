@@ -32,6 +32,10 @@
 
 <a href="https://www.linkedin.com/in/a7mdfathi/" target="blank"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fflyclipart.com%2Flinkedin-logo-png-images-free-download-linkedin-logo-png-930894&psig=AOvVaw15eS612_UpZXxh0W5NHP7O&ust=1635893493387000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLD8qKqg-PMCFQAAAAAdAAAAABAD" alt="a7mdfathi" height="22" width="22" /></a>
 
+<a href="https://stackoverflow.com/users/11614768/ahmed-fathi" target="_blank">
+<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+</a>
+
 
 
 
