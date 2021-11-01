@@ -13,16 +13,16 @@
   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=a7mdfathi&badges=4&show-avatar=true&style=--header-bg-color:%230a1931;--border-radius:12px;--badge-bg-color:%230a81ab"
 />
 <br/> 
-<img
+<!-- <img
   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=a7mdfathi&labels=true&legend=true&tooltip=true"
-/>
+/> -->
 
 ![LinkedIn](https://www.linkedin.com/in/a7mdfathi/)
 ![GitHub followers](https://img.shields.io/github/followers/a7mdfathi?logo=GitHub&style=for-the-badge)
 
 
 
-- 🌱 I’m currently learning **Flutter, Nodejs**
+- 🌱 I’m currently learning **Flutter**
 
 - 👯 I’m looking to collaborate with **other developers**
 
