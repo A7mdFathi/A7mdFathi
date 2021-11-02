@@ -1,10 +1,14 @@
-### <div align="center">Hi there I am Ahmed Fathi - Flutter Developer  👋</div>
+# <div align="center">Hi there I am Ahmed Fathi - Flutter Developer <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="35px"> </div> 
+
+![Profile Views](https://komarev.com/ghpvc/?username=a7mdfathi&style=flat-square)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/a7mdfathi/)](https://www.linkedin.com/in/a7mdfathi/)
+[![GitLab Badge](https://img.shields.io/badge/-%20Gitlab-black?style=flat-square&logo=Gitlab)](https://gitlab.com/a7mdfathi)
 
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=a7mdfathi&&style=flat-square" align="center" />
-</div>  
-<br/>
+
+<a href="https://stackoverflow.com/users/11614768/ahmed-fathi" target="_blank">
+<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+</a>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=a7mdfathi&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -17,24 +21,14 @@
   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=a7mdfathi&labels=true&legend=true&tooltip=true"
 />
 
-![LinkedIn](https://www.linkedin.com/in/a7mdfathi/)
-![GitHub followers](https://img.shields.io/github/followers/a7mdfathi?logo=GitHub&style=for-the-badge)
+
 
 
 
 - 🌱 I’m currently working **Flutter**
 - 🌱 I’m currently learning **nodejs**
-
 - 👯 I’m looking to collaborate with **other developers**
-
-
-### Connect with me:
-
-<a href="https://www.linkedin.com/in/a7mdfathi/" target="blank"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fflyclipart.com%2Flinkedin-logo-png-images-free-download-linkedin-logo-png-930894&psig=AOvVaw15eS612_UpZXxh0W5NHP7O&ust=1635893493387000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLD8qKqg-PMCFQAAAAAdAAAAABAD" alt="a7mdfathi" height="22" width="22" /></a>
-
-<a href="https://stackoverflow.com/users/11614768/ahmed-fathi" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>
+- 📫 You can reach me at my [e-mail](mailto:a.fathi2112@gmail.com).
 
 
 
