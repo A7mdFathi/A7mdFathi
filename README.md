@@ -21,7 +21,8 @@
   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=a7mdfathi&labels=true&legend=true&tooltip=true"
 />
 
-
+[portofolio](https://sites.google.com/view/a7mdfathi-portfolio/home?authuser=0)
+[ziework profile](https://www.ziework.com/A.fathi2112@gmail.com)
 
 
 
