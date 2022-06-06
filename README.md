@@ -37,7 +37,7 @@
 <br />
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=a7mdfathi&show_icons=true&theme=radical&show_icons=true&count_private=true&hide_border=true" style="width: 100%" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=A7mdFathi&show_icons=true&theme=radical&show_icons=true&count_private=true&hide_border=true" style="width: 100%" /></div>  
 <br/>  
 
 ### Languages and Tools:
