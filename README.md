@@ -1,12 +1,14 @@
 ### Hi there 👋, my name is Ahmed
 #### I am Software engineer (Flutter developer)
-![I am Software engineer (Flutter developer)](https://drive.google.com/file/d/1NSF5BU7nDxirE4_dyN5YB2mRj8DidctP/view?usp=sharing)
+![I am Software engineer (Flutter developer)](https://elu.nl/wp-content/uploads/2020/12/1_SKjEotIqtQ3P0MrBLbncMg.jpg)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Skills: Java / Dart / Flutter
+Skills: Java / Dart / Flutter / Android 
 
+- 🔭 I’m currently working on Mobile Application 
 - 🌱 I’m currently learning Node.js 
+- 👯 I’m looking to collaborate on Flutter 
 - 📫 How to reach me: a.fathi2112@gmail.com 
 
 
