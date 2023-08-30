@@ -18,14 +18,14 @@ Skills: Java / Dart / Flutter / Android
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=/A7mdFathi)](https://github.com/A7mdFathi/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=/A7mdFathi)](https://github.com/A7mdFathi/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A7mdFathi)](https://github.com/A7mdFathi/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=/A7mdFathi&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=A7mdFathi&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=/A7mdFathi)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=A7mdFathi)  
 
-![GitHub metrics](https://metrics.lecoq.io//A7mdFathi)  
+![GitHub metrics](https://metrics.lecoq.io/A7mdFathi)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=/A7mdFathi)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=A7mdFathi)  
 
-![Profile views](https://gpvc.arturio.dev//A7mdFathi)  
+![Profile views](https://gpvc.arturio.dev/A7mdFathi)  
