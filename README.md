@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Ahmed
-#### I am Software engineer (Flutter developer)
-![I am Software engineer (Flutter developer)](https://elu.nl/wp-content/uploads/2020/12/1_SKjEotIqtQ3P0MrBLbncMg.jpg)
+#### I am a Software engineer (Flutter developer)
+![I am a Software engineer (Flutter | Java developer)](https://elu.nl/wp-content/uploads/2020/12/1_SKjEotIqtQ3P0MrBLbncMg.jpg)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
